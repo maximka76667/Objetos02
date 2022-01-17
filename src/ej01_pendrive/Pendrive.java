@@ -2,7 +2,7 @@ package ej01_pendrive;
 
 public class Pendrive {
 	
-	double precio;
+	private double precio;
 	private final double IVA = 0.18;
 	
 	// Marca, modelo, (Strings)
