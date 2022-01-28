@@ -13,6 +13,7 @@ public class Main {
 		miPunto.moveY(20);
 		miPunto.moveY(3);
 		
+		System.out.println();
 		miPunto.printInfo();
 	}
 
